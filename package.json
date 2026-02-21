@@ -1,0 +1,15 @@
+{
+  "name": "minha-agencia-marketing",
+  "version": "0.1.0",
+  "description": "Agência de marketing digital — criada com Synkra AIOS",
+  "scripts": {
+    "dev": "echo 'Adicione seu script de desenvolvimento'",
+    "build": "echo 'Adicione seu script de build'",
+    "test": "echo 'Adicione seu script de testes'",
+    "lint": "echo 'Adicione seu script de lint'",
+    "typecheck": "echo 'Adicione seu script de typecheck'"
+  },
+  "keywords": [],
+  "author": "Yan Lima",
+  "license": "ISC"
+}
